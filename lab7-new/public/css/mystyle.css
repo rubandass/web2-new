@@ -1,0 +1,9 @@
+.players-image img {
+    width: 160px;
+    height: 200px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid; 
+    margin: auto;    
+    display: block;
+}
